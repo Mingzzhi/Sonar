@@ -1,0 +1,3 @@
+[submodule "src/imu_sdk"]
+	path = src/imu_sdk
+	url = https://github.com/WITMOTION/WitStandardProtocol_JY901.git
